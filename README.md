@@ -1,2 +1,2 @@
 # AI-Powered-Heath-Assistant
-The AI Health Assistant is an advanced chatbot created to offer initial assistance with health-related questions through artificial intelligence.
+An intelligent chatbot developed using Streamlit and Hugging Face, offering automated health guidance, medication recommendations, and dietary advice. 🩺💡
